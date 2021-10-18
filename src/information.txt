@@ -1,1 +1,12 @@
-4efcc2b18273b1636c9e45fb197824a7
+api key = 4efcc2b18273b1636c9e45fb197824a7
+
+steps
+=====
+1. get tmdb api key
+2. create react app
+3. setup firebase hosting
+4. get all movieews
+      build rows
+      build the banner
+      build the navbar
+      add trailer popup
