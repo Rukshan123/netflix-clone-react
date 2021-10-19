@@ -10,3 +10,8 @@ steps
       build the banner
       build the navbar
       add trailer popup
+
+dependencies
+============
+npm i react-youtube
+npm i movie-trailer
